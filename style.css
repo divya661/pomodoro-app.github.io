@@ -1,0 +1,38 @@
+body{
+  margin:20px;
+  
+  background-image:url(https://images.unsplash.com/photo-1504197832061-98356e3dcdcf?ixlib=rb-0.3.5&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjE0NTg5fQ%3D%3D&s=6f817d9835cf1bb2650e4a8197b5e26b);
+  margin:15px 15px 15px 15px;
+  background-size:100%;
+font-family:"Merriweather";}
+h1{color:white;
+  display:inline;
+  text-align:center;
+}
+#tymtype1,#tymtype2{
+  color:white;
+}
+h2{
+  display:inline;
+}
+#start,#reset{
+  margin:15px 10px 10px 10px;
+}
+.session,#break{
+  font-size:40px;
+    color:white;
+
+  margin:15px 15px;
+ 
+}
+#no,#no2{
+   
+  color:#76FF03;
+  font-weight:bold;
+  font-size:35px;
+}
+#plus1,#plus2,#minus1,#minus2
+{text-align:center;
+   position:relative;
+ margin-left:60px 10px 10px 10px;
+}
